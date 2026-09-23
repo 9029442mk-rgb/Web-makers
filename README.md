@@ -2,4 +2,8 @@
 [View on GitHub Pages](https://9029442mk-rgb.github.io/Web-makers/)
 
 
+Name=Palak Sharma, Muskan
+college=RBIENT
+
+
 
